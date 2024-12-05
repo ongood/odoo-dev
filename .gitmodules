@@ -12,3 +12,4 @@
 	path = design-themes
 	url = https://github.com/odoo/design-themes.git
 	branch = 17.0
+	shallow = true
